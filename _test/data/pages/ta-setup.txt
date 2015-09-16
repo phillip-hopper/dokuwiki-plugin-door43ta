@@ -1,0 +1,9 @@
+====== Translation Academy Setup ======
+
+To configure Translation Academy for your language, please select a source language below, and then begin typing the name of your language in the destination search box, select the correct entry from the list.
+
+If you need help getting started, please [[:contact|contact us]].
+
+[ta_setup_options/]
+
+~~NOCACHE~~

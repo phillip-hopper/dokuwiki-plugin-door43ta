@@ -1,0 +1,7 @@
+base   door43ta
+author Phil Hopper
+email  phillip_hopper@wycliffeassociates.org
+date   2015-09-08
+name   door43ta plugin
+desc   translationAcademy support
+url    https://github.com/phillip-hopper/dokuwiki-plugin-door43ta
